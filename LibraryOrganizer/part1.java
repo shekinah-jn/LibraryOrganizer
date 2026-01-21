@@ -1,18 +1,3 @@
-//-------------------------------------------------------------------------
-//Assignment 2
-//Part: 1
-//Written by: Shekinah Nagarasa 40287073 
-//-------------------------------------------------------------------------
-
-/**
- * Assignment Information:
- *
- * Shekinah Nagarasa - 40287073 
- * Course: COMP249
- * Assignment #2
- * Due Date: 17 November 2025
- *
- */
 import java.io.PrintWriter;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -408,3 +393,4 @@ public class part1 {
 
     }
 }
+
