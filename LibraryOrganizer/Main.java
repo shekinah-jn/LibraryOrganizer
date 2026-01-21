@@ -1,15 +1,4 @@
 /**
- * Assignment Information:
- *
- * Shekinah Nagarasa - 40287073
- * Course: COMP249
- * Assignment #2
- * Due Date: 17 November 2025
- *
- */
-
-
-/**
  * The Main class serves as the entry point for the program.
  * It orchestrates the execution of three parts of the program:
  *
@@ -26,3 +15,4 @@ public class Main {
     part3.do_part3();
   }
 }
+
