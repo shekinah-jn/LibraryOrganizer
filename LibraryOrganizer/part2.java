@@ -1,19 +1,3 @@
-//-------------------------------------------------------------------------
-//Assignment 2
-//Part: 2
-//Written by: Shekinah Nagarasa 40287073 
-//-------------------------------------------------------------------------
-
-/**
- * Assignment Information:
- *
- * Shekinah Nagarasa - 40287073 
- * Course: COMP249
- * Assignment #2
- * Due Date: 17 November 2025
- *
- */
-
  /**
  * Part 2 of the program is responsible for checking semantic errors in book records
  * from various CSV files and serializing valid records into binary files.
@@ -288,6 +272,7 @@ public class part2 {
         return (sum% 10==0);// return true if sum is divisible by 10
     }
 }                   
+
 
 
         
