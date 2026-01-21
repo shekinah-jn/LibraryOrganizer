@@ -1,12 +1,3 @@
-/**
- * Assignment Information:
- *
- * Shekinah Nagarasa - 40287073
- * Course: COMP249
- * Assignment #2
- * Due Date: 17 November 2025
- *
- */
 import java.io.Serializable;
 
 /**
@@ -102,3 +93,4 @@ public class Book implements Serializable{
     }
 
 }
+
